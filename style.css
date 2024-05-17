@@ -59,6 +59,10 @@ btn {
   transition: all 300ms ease;
 }
 
+.home:hover {
+  text-decoration: none;
+}
+
 /* Desktop nav */
 
 nav,
